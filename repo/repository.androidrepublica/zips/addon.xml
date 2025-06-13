@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.androidrepublica" name="[COLOR lime]Androidrepublica[/COLOR] Repo" version="6.0.0" provider-name="Androidrepublica">
+	<extension point="xbmc.addon.repository" name="Androidrepublica Repo">
+		<dir minversion="18.0" maxversion="18.9.0">
+			<info compressed="false">https://androidrepublica.website/Repo/Leia/addons.xml</info>
+			<checksum>https://androidrepublica.website/Repo/Leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://androidrepublica.website/Zips/</datadir>
+		</dir>
+		<dir minversion="19.0" maxversion="19.5.0">
+			<info compressed="false">https://androidrepublica.website/Repo/Matrix/addons.xml</info>
+			<checksum>https://androidrepublica.website/Repo/Matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://androidrepublica.website/Matrix/</datadir>
+		</dir>
+		<dir minversion="20.0.0">
+			<info compressed="false">https://androidrepublica.website/Repo/Nexus/addons.xml</info>
+			<checksum>https://androidrepublica.website/Repo/Nexus/addons.xml.md5</checksum>
+			<datadir zip="true">https://androidrepublica.website/Nexus/</datadir>
+		</dir>
+		<dir minversion="21.0.0">
+			<info compressed="false">https://androidrepublica.website/Repo/Omega/addons.xml</info>
+			<checksum>https://androidrepublica.website/Repo/Omega/addons.xml.md5</checksum>
+			<datadir zip="true">https://androidrepublica.website/Omega/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+	</extension>
+		<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Addons From Kodi IPTV Malaysia</summary>
+		<description lang="en">Androidrepublica Repo</description>
+		<disclaimer lang="en">Copyright of androidrepublica.com</disclaimer>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot></screenshot>
+			<screenshot></screenshot>
+			<screenshot></screenshot>
+		</assets>
+	</extension>
+</addon>
