@@ -1,4 +1,4 @@
-# Androidrepublica Helper 
+# Androidrepublica Official Repo 
 
 <img src="https://github.com/androidrepublica/MyPicture/blob/master/icon.png" width="256" height="256" />
 
