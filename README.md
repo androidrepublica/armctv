@@ -2,7 +2,7 @@
 
 <img src="https://github.com/androirepublica/MyPicture/blob/master/icon.png" width="256" height="256" />
 
-See [TMDbHelper Wiki](https://github.com/jurialmunkey/plugin.video.themoviedb.helper/wiki) for usage
+See [Androidrepublica Wiki](https://github.com/androidrepublica/repository.androidrepublica/wiki) for usage
 
 
 
