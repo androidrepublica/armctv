@@ -1,14 +1,25 @@
-Installation
+# Androidrepublica Helper 
 
-Install via my repository to ensure all module dependencies are up to date.
+<img src="https://github.com/androirepublica/MyPicture/blob/master/icon.png" width="256" height="256" />
 
-Kodi File Manager Source: https://androidrepublica.github.io/repository.androidrepublica/
+See [TMDbHelper Wiki](https://github.com/jurialmunkey/plugin.video.themoviedb.helper/wiki) for usage
 
-Direct ZIP Install: https://androidrepublica.github.io/repository.androidrepublica/repository.androidrepublica-7.0.zip
+
+
+## Installation 
+
+Install via my repository to ensure all module dependencies are up to date. 
+
+
+Kodi File Manager Source:
+https://androirepublica.github.io/repository.androirepublica/
+
+Direct ZIP Install:
+https://androirepublica.github.io/repository.androirepublica/repository.androirepublica-7.0.zip 
 
 Instructions:
 
-Enable "Unknown Sources" in Kodi Settings > System > Add-ons
-Enable "Update official add-ons from: Any repositories" in Kodi Settings > System > Add-ons
-Install my repository using either the zip or file manager source linked above
-Install latest version of addon from my repo - video addon
+1. Enable "Unknown Sources" in Kodi Settings > System > Add-ons
+2. Enable "Update official add-ons from: Any repositories" in Kodi Settings > System > Add-ons
+3. Install my repository using either the zip or file manager source linked above
+4. Install latest version of androidrepublica / androidrepublicaSE from my repo
