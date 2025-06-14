@@ -1,0 +1,28 @@
+
+v7.0.0
+-Omega 21 Remake
+
+v6.0.0
+-Nexus 20 Remastered
+
+v5.0.0
+-Matrix Reborn
+
+v4.5.0
+-Add Gujal and A4Scrapper
+
+v4.0.0
+-Fix SSL Handshake
+
+v3.5.0
+-Import Resolve url
+
+v3.0.0
+-Bug Fix
+
+v2.0.0
+-Added Plugin androidrepublicawizard
+
+v1.0.0
+-Initial Released
+
