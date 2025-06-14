@@ -23,3 +23,14 @@ Instructions:
 2. Enable "Update official add-ons from: Any repositories" in Kodi Settings > System > Add-ons
 3. Install my repository using either the zip or file manager source linked above
 4. Install latest version of androidrepublica / androidrepublicaSE from my repo
+5. Get the pin to unlock
+
+
+# Androidrepublica Pin
+
+   Free Androidrepublica Pin : [AR Telegram Group Support](https://t.me/armctv)
+
+# AndroidrepublicaSE Pin
+
+   AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG)
+
