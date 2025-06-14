@@ -1,6 +1,6 @@
 # Androidrepublica Helper 
 
-<img src="https://github.com/androirepublica/MyPicture/blob/master/icon.png" width="256" height="256" />
+<img src="https://github.com/androidrepublica/MyPicture/blob/master/icon.png" width="256" height="256" />
 
 See [Androidrepublica Wiki](https://github.com/androidrepublica/repository.androidrepublica/wiki) for usage
 
@@ -12,10 +12,10 @@ Install via my repository to ensure all module dependencies are up to date.
 
 
 Kodi File Manager Source:
-https://androirepublica.github.io/repository.androirepublica/
+https://androidrepublica.github.io/repository.androidrepublica/
 
 Direct ZIP Install:
-https://androirepublica.github.io/repository.androirepublica/repository.androirepublica-7.0.zip 
+https://androidrepublica.github.io/repository.androidrepublica/repository.androidrepublica-7.0.zip 
 
 Instructions:
 
