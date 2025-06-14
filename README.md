@@ -2,7 +2,7 @@
 
 <img src="https://github.com/androidrepublica/MyPicture/blob/master/icon.png" width="256" height="256" />
 
-See [Androidrepublica Wiki](https://github.com/androidrepublica/repository.androidrepublica/wiki) for usage
+See [Androidrepublica Wiki](https://github.com/androidrepublica/repository.androidrepublica/blob/master/README.md) for usage
 
 
 
