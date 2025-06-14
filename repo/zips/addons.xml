@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.androidrepublica" name="[COLOR lime]Androidrepublica[/COLOR] Repo" version="7.0" provider-name="Androidrepublica">
+<addons><addon id="repository.androidrepublica" name="[COLOR lime]Androidrepublica[/COLOR] Repo" version="7.0" provider-name="Androidrepublica">
 	<extension point="xbmc.addon.repository" name="Androidrepublica Repo">
         	<dir>
             		<info compressed="false">https://raw.githubusercontent.com/androidrepublica/repository.androidrepublica/master/repo/zips/addons.xml</info>
@@ -35,4 +35,4 @@
 			<screenshot></screenshot>
 		</assets>
 	</extension>
-</addon>
+</addon><addons>
