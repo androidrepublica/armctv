@@ -4,12 +4,9 @@
 
 See [Androidrepublica Wiki](https://github.com/androidrepublica/repository.androidrepublica/blob/master/README.md) for usage
 
-
-
 ## Installation 
 
 Install via my repository to ensure all module dependencies are up to date. 
-
 
 Kodi File Manager Source:
 https://androidrepublica.github.io/repository.androidrepublica/
@@ -24,7 +21,6 @@ Instructions:
 3. Install my repository using either the zip or file manager source linked above
 4. Install latest version of androidrepublica / androidrepublicaSE from my repo
 5. Get the pin to unlock
-
 
 # Androidrepublica Pin
 
