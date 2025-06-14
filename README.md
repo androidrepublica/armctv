@@ -28,5 +28,6 @@ Instructions:
 
 # AndroidrepublicaSE Pin
 
-   AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG)
+   AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG), [Yezza Shop](https://androidrepublica.yezza.store/)
+     
 
