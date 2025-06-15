@@ -2,7 +2,7 @@
 
 <img src="https://github.com/androidrepublica/MyPicture/blob/master/icon.png" width="256" height="256" />
 
-See [Androidrepublica Wiki](https://github.com/androidrepublica/repository.androidrepublica/wiki) for usage
+Lihat [Androidrepublica Wiki](https://github.com/androidrepublica/repository.androidrepublica/wiki) untuk detail cara guna dan troubleshoot
 
 ## Installation 
 
