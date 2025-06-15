@@ -29,5 +29,13 @@ Instructions:
 # AndroidrepublicaSE Pin
 
    AndroidrepublicaSE Pin : [AR Shopee](https://s.shopee.com.my/9f98dKTvLG), [Yezza Shop](https://androidrepublica.yezza.store/)
+
+***
+
+🔐 Nota Penggunaan PIN 
      
+1. Satu pembelian hanya untuk satu PIN sahaja (Pin akan kekal selagi kodi/addon tidak didelete @ reset)
+2. Lifetime merujuk kepada jangka hayat penggunaan PIN tersebut, bukan umur pengguna. Harap maklum. Selagi pin kekal, anda boleh guna sampai bila-bila.
+
+
 
